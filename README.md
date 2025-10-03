@@ -1,4 +1,4 @@
-# BioSimNext — Next-Gen Bioreactor Design Simulator (Full Expanded Repo)
+# BioSimNext—Next-Gen Bioreactor Design Simulator (Full Expanded Repo)
 
 BioSimNext is a modern, interactive bioreactor simulator combining mechanistic modeling,
 AI-based optimization, and real-time sensor data visualization. This archive contains a full
